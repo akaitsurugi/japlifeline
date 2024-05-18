@@ -1,6 +1,6 @@
 # Lifeline Japanese New Testament （ライフライン訳新約聖書）
 
-This SWORD module is for Bible study software like MacSword and Xiphos and is available for free. The Lifeline Japanese New Testament was published by [Gospel to Japan](http://www.gospeltojapan.org/) and the descriptions below are from them. This module is managed by [Christian Liberty Institute](http://christianlibertyinstitute.org/).
+This SWORD module is for Bible study software like MacSword and Xiphos and is available for free. The Lifeline Japanese New Testament was published by [Gospel to Japan](http://www.gospeltojapan.org/) and the descriptions below are from them. This module is managed by [Akai Tsurugi](http://akaitsurugi.org/).
 
 Todos:
 [ ] Bold the name of God as in the PDF. For example: `<hi type="bold">神</hi>`
