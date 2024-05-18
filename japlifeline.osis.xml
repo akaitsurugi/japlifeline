@@ -2,6 +2,18 @@
 <osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
 <osisText osisIDWork="JapLifeline" osisRefWork="Bible" xml:lang="ja">
 	<header>
+		<revisionDesc resp="Akai Tsurugi">
+			<date>2024.05.18</date>
+			<p>Lifeline module version 1.0.1</p>
+			<p>Details:
+				<list>
+					<item>Added titles to books.</item>
+					<item>Updated for Akai Tsurugi.</item>
+					<item>Corrected Luke 18.20.</item>
+					<item>Fixed quote of God in Romans 4.17.</item>
+				</list>
+			</p>
+		</revisionDesc>
 		<revisionDesc resp="Christian Liberty Institute">
 			<date>2023.04.21</date>
 			<p>Lifeline module version 1.0</p>
