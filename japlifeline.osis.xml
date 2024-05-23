@@ -2,6 +2,18 @@
 <osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
 <osisText osisIDWork="JapLifeline" osisRefWork="Bible" xml:lang="ja">
 	<header>
+		<revisionDesc resp="Akai Tsurugi">
+			<date>2024.05.23</date>
+			<p>Lifeline module version 1.0.1</p>
+			<p>Details:
+				<list>
+					<item>Added titles to books.</item>
+					<item>Updated for Akai Tsurugi.</item>
+					<item>Corrected Luke 18.20.</item>
+					<item>Fixed quote of God in Romans 4.17.</item>
+				</list>
+			</p>
+		</revisionDesc>
 		<revisionDesc resp="Christian Liberty Institute">
 			<date>2023.04.21</date>
 			<p>Lifeline module version 1.0</p>
@@ -23,6 +35,7 @@
 	</header>
 	<div canonical="true" type="bookGroup" subType="x-NT">
 	<div canonical="true" type="book" osisID="Matt">
+		<title type="main" short="マタイ">マタイの福音書</title>
 		<chapter sID="Matt.1" osisID="Matt.1">
 		<verse sID="Matt.1.1" osisID="Matt.1.1"/>アブラハムの息子であり、ダビデの息子でもあるイエス・キリストの家系の書。<verse eID="Matt.1.1"/>
 		<verse sID="Matt.1.2" osisID="Matt.1.2"/>アブラハムにイサクが生まれ、イサクにヤコブが生まれ、ヤコブにユダとその兄弟たちが生まれ、<verse eID="Matt.1.2"/>
@@ -1152,6 +1165,7 @@
 		</chapter>
 	</div>
 	<div canonical="true" type="book" osisID="Mark">
+		<title type="main" short="マルコ">マルコの福音書</title>
 		<chapter sID="Mark.1" osisID="Mark.1">
 		<verse sID="Mark.1.1" osisID="Mark.1.1"/>神の御子息、イエス・キリストの福音のはじめ。<verse eID="Mark.1.1"/>
 		<verse sID="Mark.1.2" osisID="Mark.1.2"/>数々の預言の書に書いてあるように、「見よ、わたしはわたしの使者をあなたの眼前に遣わす。彼はあなたの前にあなたの道を用意する。<verse eID="Mark.1.2"/>
@@ -1864,6 +1878,7 @@
 		</chapter>
 	</div>
 	<div canonical="true" type="book" osisID="Luke">
+		<title type="main" short="ルカ">ルカの福音書</title>
 		<chapter sID="Luke.1" osisID="Luke.1">
 		<verse sID="Luke.1.1" osisID="Luke.1.1"/>私たちの間で成就されたことを、大勢の人たちが順序よく記録するように、すでに手がけていますから、<verse eID="Luke.1.1"/>
 		<verse sID="Luke.1.2" osisID="Luke.1.2"/>御言葉の、最初からの目撃者であり奉仕者であった人たちも、私たちにそのことを任せてくれたように、<verse eID="Luke.1.2"/>
@@ -2713,7 +2728,7 @@
 		<verse sID="Luke.18.17" osisID="Luke.18.17"/>まことに、わたしはあなたがたに言います。小さな子どものように、神の王国を受け入れる者でなければ、誰であれ、決して王国に入ることはできません。」<verse eID="Luke.18.17"/>
 		<verse sID="Luke.18.18" osisID="Luke.18.18"/>さて、一人の支配者はイエスに言った。「善なる師よ、永遠の命を受け継ぐために、私は何をしたらよいのでしょうか。」<verse eID="Luke.18.18"/>
 		<verse sID="Luke.18.19" osisID="Luke.18.19"/>それでイエスはその支配者に言われた。「わたしを『善なる師』と、なぜあなたは言うのですか。一人を除いて、つまり神以外に、誰も善なる者はいません。」<verse eID="Luke.18.19"/>
-		<verse sID="Luke.18.20" osisID="Luke.18.20"/>『姦淫をしてはいけない。殺人を犯してはいけない。偽証をしてはいけない。』『あなたの父と母に敬意をはらいなさい。』という命令をあなたは知っています。」<verse eID="Luke.18.20"/>
+		<verse sID="Luke.18.20" osisID="Luke.18.20"/>『姦淫をしてはいけない。殺人を犯してはいけない。盗んではいけない。偽証をしてはいけない。』『あなたの父と母に敬意をはらいなさい。』という命令をあなたは知っています。」<verse eID="Luke.18.20"/>
 		<verse sID="Luke.18.21" osisID="Luke.18.21"/>そして、その支配者は言った。「私はこれらすべてを青年時代から守ってきています。」<verse eID="Luke.18.21"/>
 		<verse sID="Luke.18.22" osisID="Luke.18.22"/>それで、イエスはこれらのことを聞き、男に言われた。「一つまだ足りないところがあります。自分の持ち物をすべて売り、貧しい人たちに分け与えなさい。そうすれば、あなたは天国で宝を手にします。そして、わたしに従いなさい。」<verse eID="Luke.18.22"/>
 		<verse sID="Luke.18.23" osisID="Luke.18.23"/>しかし、その支配者はこれを聞き、とても悲しくなった。彼は大金持ちであったからである。<verse eID="Luke.18.23"/>
@@ -3065,6 +3080,7 @@
 		</chapter>
 	</div>
 	<div canonical="true" type="book" osisID="John">
+		<title type="main" short="ヨハネ">ヨハネの福音書</title>
 		<chapter sID="John.1" osisID="John.1">
 		<verse sID="John.1.1" osisID="John.1.1"/>初めに言葉<note placement="foot"><reference type="annotateRef" osisRef="John.1.1">1.1</reference> 原語「ロゴス」というギリシャ語は、意味が広い。言葉、説明、理性、話題、メッセージ、考えなどの意味がある。</note>あり、言葉は神と共にあり、言葉は神であった。<verse eID="John.1.1"/>
 		<verse sID="John.1.2" osisID="John.1.2"/>この方は、初めに神と共におられた。<verse eID="John.1.2"/>
@@ -3988,6 +4004,7 @@
 		</chapter>
 	</div>
 	<div canonical="true" type="book" osisID="Acts">
+		<title type="main" short="使徒">使徒の働き</title>
 		<chapter sID="Acts.1" osisID="Acts.1">
 		<verse sID="Acts.1.1" osisID="Acts.1.1"/>テオピロよ、すべてイエスの行ない始め、及び教え始められたことを、私は以前に記録した。<verse eID="Acts.1.1"/>
 		<verse sID="Acts.1.2" osisID="Acts.1.2"/>イエスが聖霊を通して、ご自分が選ばれた使徒たちに命令を与えた後、上げられる日までであった。<verse eID="Acts.1.2"/>
@@ -5053,6 +5070,7 @@
 		</chapter>
 	</div>
 	<div canonical="true" type="book" osisID="Rom">
+		<title type="main" short="ローマ">ローマ人への手紙</title>
 		<chapter sID="Rom.1" osisID="Rom.1">
 		<verse sID="Rom.1.1" osisID="Rom.1.1"/>パウロ、イエス・キリストの僕、召された使徒、神の福音のために聖別された者。<verse eID="Rom.1.1"/>
 		<verse sID="Rom.1.2" osisID="Rom.1.2"/>福音は、聖書によって神の預言者たちを通して約束されたものであり、<verse eID="Rom.1.2"/>
@@ -5168,7 +5186,7 @@
 		<verse sID="Rom.4.14" osisID="Rom.4.14"/>なぜなら、もし律法から出る人たちが相続人であったなら、信仰はむなしくされて、約束は無効にされてしまいます。<verse eID="Rom.4.14"/>
 		<verse sID="Rom.4.15" osisID="Rom.4.15"/>なぜなら、律法は怒りを生じます。また、律法がないところに律法の違反もありません。<verse eID="Rom.4.15"/>
 		<verse sID="Rom.4.16" osisID="Rom.4.16"/>このゆえに、律法の人だけではなく、私たち全員の父祖であるアブラハムの信仰から来る人にも、父祖アブラハムのすべての種への確かな約束であるために、恵みにより、信仰から出たのです。<verse eID="Rom.4.16"/>
-		<verse sID="Rom.4.17" osisID="Rom.4.17"/>「私はあなたを多くの国の父祖に任じた。」と書いてあるように、アブラハムが信じた方の御前に、すなわち死人に命を与える方、存在しない人を存在するようにお呼びになる神です。<verse eID="Rom.4.17"/>
+		<verse sID="Rom.4.17" osisID="Rom.4.17"/>「わたしはあなたを多くの国の父祖に任じた。」と書いてあるように、アブラハムが信じた方の御前に、すなわち死人に命を与える方、存在しない人を存在するようにお呼びになる神です。<verse eID="Rom.4.17"/>
 		<verse sID="Rom.4.18" osisID="Rom.4.18"/>アブラハムは、「あなたの種はそうなる。」と告げられ、信じがたいことでありながら、希望を持って信じたがゆえに、多くの国々の父祖となりました。<verse eID="Rom.4.18"/>
 		<verse sID="Rom.4.19" osisID="Rom.4.19"/>そして、およそ百歳で自分の体がもう無能になっていること、またサラの胎が死んでいることを考えもせず、彼の信仰は弱くならなかったのです。<verse eID="Rom.4.19"/>
 		<verse sID="Rom.4.20" osisID="Rom.4.20"/>また、彼は神の約束を不信仰のゆえ疑うことなく、むしろ信仰によって力づけられ、神に栄光を捧げたのです。<verse eID="Rom.4.20"/>
@@ -5520,6 +5538,7 @@
 		</chapter>
 	</div>
 	<div canonical="true" type="book" osisID="1Cor">
+		<title type="main" short="コリント第一">コリント人への手紙　第一</title>
 		<chapter sID="1Cor.1" osisID="1Cor.1">
 		<verse sID="1Cor.1.1" osisID="1Cor.1.1"/>神のご意思を通し、イエス・キリストの一人の使徒として召されたパウロと、我らが兄弟ソステネ、<verse eID="1Cor.1.1"/>
 		<verse sID="1Cor.1.2" osisID="1Cor.1.2"/>コリントにある神の教会へ、キリスト・イエスによって聖別され、聖徒たちとして召された人々へ、いかなる所でも私たちの主であるイエス・キリストの御名を呼び求めるすべての人々へ。イエスは私たちの主であり、その人々の主です。<verse eID="1Cor.1.2"/>
@@ -5991,6 +6010,7 @@
 		</chapter>
 	</div>
 	<div canonical="true" type="book" osisID="2Cor">
+		<title type="main" short="コリント第二">コリント人への手紙　第二</title>
 		<chapter sID="2Cor.1" osisID="2Cor.1">
 		<verse sID="2Cor.1.1" osisID="2Cor.1.1"/>神のご意志により、イエス・キリストの使徒であるパウロと、私たちの兄弟であるテモテより、コリントにある神の教会へ、そして、アカヤ全土の聖徒たちへ。<verse eID="2Cor.1.1"/>
 		<verse sID="2Cor.1.2" osisID="2Cor.1.2"/>私たちの父であられる神より、そして、主イエス・キリストより、あなたがたに恵みと平安がありますように。<verse eID="2Cor.1.2"/>
@@ -6276,6 +6296,7 @@
 		</chapter>
 	</div>
 	<div canonical="true" type="book" osisID="Gal">
+		<title type="main" short="ガラテヤ">ガラテヤ人への手紙</title>
 		<chapter sID="Gal.1" osisID="Gal.1">
 		<verse sID="Gal.1.1" osisID="Gal.1.1"/>人間からでなく、また人間を通してではなく、イエス・キリストを通し、またイエスを死人たちの中から復活させられた父なる神を通し、使徒であるパウロより、<verse eID="Gal.1.1"/>
 		<verse sID="Gal.1.2" osisID="Gal.1.2"/>また、私と共にいる兄弟たちより、ガラテヤ地方の諸教会へ。<verse eID="Gal.1.2"/>
@@ -6439,6 +6460,7 @@
 		</chapter>
 	</div>
 	<div canonical="true" type="book" osisID="Eph">
+		<title type="main" short="エペソ">エペソ人への手紙</title>
 		<chapter sID="Eph.1" osisID="Eph.1">
 		<verse sID="Eph.1.1" osisID="Eph.1.1"/>神のご意志を通して、イエス・キリストの使徒であるパウロより。エペソにいる聖徒たちと、キリスト・イエスにあって忠実な人たちへ。<verse eID="Eph.1.1"/>
 		<verse sID="Eph.1.2" osisID="Eph.1.2"/>私たちの父なる神と主イエス・キリストより、あなたがたに恵みと平安がありますように。<verse eID="Eph.1.2"/>
@@ -6608,6 +6630,7 @@
 		</chapter>
 	</div>
 	<div canonical="true" type="book" osisID="Phil">
+		<title type="main" short="ピリピ">ピリピ人への手紙</title>
 		<chapter sID="Phil.1" osisID="Phil.1">
 		<verse sID="Phil.1.1" osisID="Phil.1.1"/>イエス・キリストの僕であるパウロとテモテ、ピリピにいるキリスト・イエスにあって、監督、執事たちと共にいる、すべての聖徒たちへ。<verse eID="Phil.1.1"/>
 		<verse sID="Phil.1.2" osisID="Phil.1.2"/>私たちの父なる神と主イエス・キリストより、あなたがたに恵みと平安がありますように。<verse eID="Phil.1.2"/>
@@ -6722,6 +6745,7 @@
 		</chapter>
 	</div>
 	<div canonical="true" type="book" osisID="Col">
+		<title type="main" short="コロサイ">コロサイ人への手紙</title>
 		<chapter sID="Col.1" osisID="Col.1">
 		<verse sID="Col.1.1" osisID="Col.1.1"/>神のご意志を通して、イエス・キリストの使徒であるパウロ、そして我らの兄弟テモテより、<verse eID="Col.1.1"/>
 		<verse sID="Col.1.2" osisID="Col.1.2"/>コロサイにいる聖徒たち、すなわち、キリストにあって忠実な兄弟たちへ。私たちの父なる神と主イエス・キリストより、あなたがたに恵みと平安がありますように。<verse eID="Col.1.2"/>
@@ -6827,6 +6851,7 @@
 		</chapter>
 	</div>
 	<div canonical="true" type="book" osisID="1Thess">
+		<title type="main" short="テサロニケ第一">テサロニケ人への手紙　第一</title>
 		<chapter sID="1Thess.1" osisID="1Thess.1">
 		<verse sID="1Thess.1.1" osisID="1Thess.1.1"/>パウロ、シラス、そして、テモテから、父なる神と主イエス・キリストにあってテサロニケの人たちの教会へ。私たちの父であられる神と主イエス・キリストより、あなたがたに恵みと平安がありますように。<verse eID="1Thess.1.1"/>
 		<verse sID="1Thess.1.2" osisID="1Thess.1.2"/>私たちは祈りの中で、皆さんのことに触れ、いつも、神に感謝しています。<verse eID="1Thess.1.2"/>
@@ -6928,6 +6953,7 @@
 		</chapter>
 	</div>
 	<div canonical="true" type="book" osisID="2Thess">
+		<title type="main" short="テサロニケ第二">テサロニケ人への手紙　第二</title>
 		<chapter sID="2Thess.1" osisID="2Thess.1">
 		<verse sID="2Thess.1.1" osisID="2Thess.1.1"/>パウロ、シルワノ、テモテより、私たちの父なる神と主イエス・キリストにあるテサロニケの人たちの教会へ。<verse eID="2Thess.1.1"/>
 		<verse sID="2Thess.1.2" osisID="2Thess.1.2"/>私たちの父なる神と主イエス・キリストより、あなたがたへ恵みと平安がありますように。<verse eID="2Thess.1.2"/>
@@ -6983,6 +7009,7 @@
 		</chapter>
 	</div>
 	<div canonical="true" type="book" osisID="1Tim">
+		<title type="main" short="テモテ第一">テモテへの手紙　第一</title>
 		<chapter sID="1Tim.1" osisID="1Tim.1">
 		<verse sID="1Tim.1.1" osisID="1Tim.1.1"/>私たちの救い主である神と、私たちの希望である主イエス・キリストの命令により、イエス・キリストの使徒であるパウロより、<verse eID="1Tim.1.1"/>
 		<verse sID="1Tim.1.2" osisID="1Tim.1.2"/>信仰にあって真の息子であるテモテへ。私たちの父なる神と私たちの主であるキリスト・イエスより、恵み、哀れみ、平和がありますように。<verse eID="1Tim.1.2"/>
@@ -7110,6 +7137,7 @@
 		</chapter>
 	</div>
 	<div canonical="true" type="book" osisID="2Tim">
+		<title type="main" short="テモテ第二">テモテへの手紙　第二</title>
 		<chapter sID="2Tim.1" osisID="2Tim.1">
 		<verse sID="2Tim.1.1" osisID="2Tim.1.1"/>神のご意志により、キリスト・イエスにある命の約束に従い、イエス・キリストの使徒であるパウロより、<verse eID="2Tim.1.1"/>
 		<verse sID="2Tim.1.2" osisID="2Tim.1.2"/>愛する子であるテモテへ、父なる神、および、私たちの主キリスト・イエスより、恵み、哀れみ、そして平安がありますように。<verse eID="2Tim.1.2"/>
@@ -7203,6 +7231,7 @@
 		</chapter>
 	</div>
 	<div canonical="true" type="book" osisID="Titus">
+		<title type="main" short="テトス">テトスへの手紙</title>
 		<chapter sID="Titus.1" osisID="Titus.1">
 		<verse sID="Titus.1.1" osisID="Titus.1.1"/>神の僕の一人、そして、イエス・キリストの使徒の一人であるパウロ。神が選ばれた者たちの信仰、そして、敬虔を生じる真理の知識により、<verse eID="Titus.1.1"/>
 		<verse sID="Titus.1.2" osisID="Titus.1.2"/>時の始まる以前、嘘をつくことのできない神が、約束された永遠の命の望みです。<verse eID="Titus.1.2"/>
@@ -7257,6 +7286,7 @@
 		</chapter>
 	</div>
 	<div canonical="true" type="book" osisID="Phlm">
+		<title type="main" short="ピレモン">ピレモンへの手紙</title>
 		<chapter sID="Phlm.1" osisID="Phlm.1">
 		<verse sID="Phlm.1.1" osisID="Phlm.1.1"/>キリスト・イエスの囚人であるパウロと、私たちの兄弟テモテより、私たちの同労者である、愛するピレモンへ。<verse eID="Phlm.1.1"/>
 		<verse sID="Phlm.1.2" osisID="Phlm.1.2"/>また、愛するアピヤ、そして私たちの戦友アルキポ、そしてあなたの家にある教会へ、<verse eID="Phlm.1.2"/>
@@ -7286,6 +7316,7 @@
 		</chapter>
 	</div>
 	<div canonical="true" type="book" osisID="Heb">
+		<title type="main" short="ヘブル">ヘブル人への手紙</title>
 		<chapter sID="Heb.1" osisID="Heb.1">
 		<verse sID="Heb.1.1" osisID="Heb.1.1"/>多くの時代に、いろいろな方法で、昔預言者たちを通し、父祖たちに語られた神は、<verse eID="Heb.1.1"/>
 		<verse sID="Heb.1.2" osisID="Heb.1.2"/>この最後の日々に、神の御子息を通して私たちに語られました。神は御子息をすべてのものを引き継ぐ者と指名されました。また、この方を通して神は森羅万象を造られたのです。<verse eID="Heb.1.2"/>
@@ -7617,6 +7648,7 @@
 		</chapter>
 	</div>
 	<div canonical="true" type="book" osisID="Jas">
+		<title type="main" short="ヤコブ">ヤコブの手紙</title>
 		<chapter sID="Jas.1" osisID="Jas.1">
 		<verse sID="Jas.1.1" osisID="Jas.1.1"/>謹啓。神と主イエス・キリストの僕であるヤコブより、ディアスポラ<note placement="foot"><reference type="annotateRef" osisRef="Jas.1.1">1.1</reference> 他国に住むユダヤ人たち。</note>の十二部族へ。<verse eID="Jas.1.1"/>
 		<verse sID="Jas.1.2" osisID="Jas.1.2"/>私の兄弟たちよ、様々な試練にあっても、その一つ一つは、すべて喜びであると承知しなさい。<verse eID="Jas.1.2"/>
@@ -7737,6 +7769,7 @@
 		</chapter>
 	</div>
 	<div canonical="true" type="book" osisID="1Pet">
+		<title type="main" short="ペテロ第一">ペテロの手紙　第一</title>
 		<chapter sID="1Pet.1" osisID="1Pet.1">
 		<verse sID="1Pet.1.1" osisID="1Pet.1.1"/>イエス・キリストの使徒の一人であるペテロより、ポント、ガラテヤ、カパドキヤ、アジア、ビテニヤに散らされた、ディアスポラ*の選ばれた逗留者たちへ。<verse eID="1Pet.1.1"/>
 		<verse sID="1Pet.1.2" osisID="1Pet.1.2"/>その散らされたことは、以前から父なる神がご存じであったことで、御霊の聖別により起こったこと、そしてイエス・キリストへの従順と、キリストの血の振りかけのためです。あなたがたに、恵みと平安が幾重にもありますように。<verse eID="1Pet.1.2"/>
@@ -7854,6 +7887,7 @@
 		</chapter>
 	</div>
 	<div canonical="true" type="book" osisID="2Pet">
+		<title type="main" short="ペテロ第二">ペテロの手紙　第二</title>
 		<chapter sID="2Pet.1" osisID="2Pet.1">
 		<verse sID="2Pet.1.1" osisID="2Pet.1.1"/>イエス・キリストの僕、そして使徒であるシモン・ペテロ、私たちの神と救い主イエス・キリストの義によって、私たちと同じ尊さの信仰を得た人たちへ。<verse eID="2Pet.1.1"/>
 		<verse sID="2Pet.1.2" osisID="2Pet.1.2"/>神と私たちの主イエスを知ることにより、幾重にも恵みと平安があなたがたにありますように。<verse eID="2Pet.1.2"/>
@@ -7923,6 +7957,7 @@
 		</chapter>
 	</div>
 	<div canonical="true" type="book" osisID="1John">
+		<title type="main" short="ヨハネ第一">ヨハネの手紙　第一</title>
 		<chapter sID="1John.1" osisID="1John.1">
 		<verse sID="1John.1.1" osisID="1John.1.1"/>それは最初からのものでした。私たちが御言葉を聞いたものでした。私たちが私たちの目で見たものでした。私たちがしっかり見たものでした。私たちの手で触ったものでした。つまり、命の御言葉でした。<verse eID="1John.1.1"/>
 		<verse sID="1John.1.2" osisID="1John.1.2"/>そして、この命は明らかにされ、そして、私たちはそれを見て、証をし、また、御父と共にあった、この永遠の命を私たちに示されました。<verse eID="1John.1.2"/>
@@ -8040,6 +8075,7 @@
 		</chapter>
 	</div>
 	<div canonical="true" type="book" osisID="2John">
+		<title type="main" short="ヨハネ第二">ヨハネの手紙　第二</title>
 		<chapter sID="2John.1" osisID="2John.1">
 		<verse sID="2John.1.1" osisID="2John.1.1"/>長老より、真理によって私が愛している、選ばれたご婦人とその子どもたちへ。私だけではなく、真理を知ったすべての人々も、あなたがたを真理によって愛しています。<verse eID="2John.1.1"/>
 		<verse sID="2John.1.2" osisID="2John.1.2"/>私たちの中に留まり、かつ、永遠に私たちと共にある真理のゆえです。<verse eID="2John.1.2"/>
@@ -8057,6 +8093,7 @@
 		</chapter>
 	</div>
 	<div canonical="true" type="book" osisID="3John">
+		<title type="main" short="ヨハネ第三">ヨハネの手紙　第三</title>
 		<chapter sID="3John.1" osisID="3John.1">
 		<verse sID="3John.1.1" osisID="3John.1.1"/>長老より、私が真理によって愛している、愛しいガイオへ。<verse eID="3John.1.1"/>
 		<verse sID="3John.1.2" osisID="3John.1.2"/>愛する者よ、あなたのたましいが栄えていると同様に、あらゆることにあなたが栄え、かつ健康であることをお祈りします。<verse eID="3John.1.2"/>
@@ -8075,6 +8112,7 @@
 		</chapter>
 	</div>
 	<div canonical="true" type="book" osisID="Jude">
+		<title type="main" short="ユダ">ユダの手紙</title>
 		<chapter sID="Jude.1" osisID="Jude.1">
 		<verse sID="Jude.1.1" osisID="Jude.1.1"/>イエス・キリストの僕、ヤコブの兄弟であるユダより、父なる神によって聖別され、イエス・キリストによって、庇護の下にあり、招かれた人たちへ。<verse eID="Jude.1.1"/>
 		<verse sID="Jude.1.2" osisID="Jude.1.2"/>哀れみと平和と愛が、幾重にもあなたがたにありますように。<verse eID="Jude.1.2"/>
@@ -8104,6 +8142,7 @@
 		</chapter>
 	</div>
 	<div canonical="true" type="book" osisID="Rev">
+		<title type="main" short="黙示">ヨハネの黙示録</title>
 		<chapter sID="Rev.1" osisID="Rev.1">
 		<verse sID="Rev.1.1" osisID="Rev.1.1"/>イエス・キリストの啓示、すなわち神がイエスの僕たちに、すぐ起こるはずの事を示すため、イエスに与えられ、イエスがご自分の御使いを通して、ご自分の僕ヨハネに送られ、知らせたものである。<verse eID="Rev.1.1"/>
 		<verse sID="Rev.1.2" osisID="Rev.1.2"/>ヨハネは神の御言葉、そしてイエス・キリストの証言、そしてヨハネが見たすべてのことについて証した。<verse eID="Rev.1.2"/>
