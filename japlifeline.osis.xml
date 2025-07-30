@@ -7233,13 +7233,13 @@
 	<div canonical="true" type="book" osisID="Titus">
 		<title type="main" short="テトス">テトスへの手紙</title>
 		<chapter sID="Titus.1" osisID="Titus.1">
-		<verse sID="Titus.1.1" osisID="Titus.1.1"/>神の僕の一人、そして、イエス・キリストの使徒の一人であるパウロ。神が選ばれた者たちの信仰、そして、敬虔を生じる真理の知識により、<verse eID="Titus.1.1"/>
-		<verse sID="Titus.1.2" osisID="Titus.1.2"/>時の始まる以前、嘘をつくことのできない神が、約束された永遠の命の望みです。<verse eID="Titus.1.2"/>
-		<verse sID="Titus.1.3" osisID="Titus.1.3"/>しかし、私たちの救い主であられる神の命令により、私に委ねられた宣教で、時至り、神はご自分の御言葉を明らかにされました。<verse eID="Titus.1.3"/>
-		<verse sID="Titus.1.4" osisID="Titus.1.4"/>共の信仰により、私の真の子の一人であるテトスへ。父なる神であられ、私たちの救い主であられる主イエス・キリストより、恵み、哀れみ、平安がありますように。<verse eID="Titus.1.4"/>
+		<verse sID="Titus.1.1" osisID="Titus.1.1"/><hi type="bold">神</hi>の僕の一人、そして、イエス・キリストの使徒の一人であるパウロ。<hi type="bold">神</hi>が選ばれた者たちの信仰、そして、敬虔を生じる真理の知識により、<verse eID="Titus.1.1"/>
+		<verse sID="Titus.1.2" osisID="Titus.1.2"/>時の始まる以前、嘘をつくことのできない<hi type="bold">神</hi>が、約束された永遠の命の望みです。<verse eID="Titus.1.2"/>
+		<verse sID="Titus.1.3" osisID="Titus.1.3"/>しかし、私たちの<hi type="bold">救い主</hi>であられる<hi type="bold">神</hi>の命令により、私に委ねられた宣教で、時至り、<hi type="bold">神</hi>はご自分の御言葉を明らかにされました。<verse eID="Titus.1.3"/>
+		<verse sID="Titus.1.4" osisID="Titus.1.4"/>共の信仰により、私の真の子の一人であるテトスへ。<hi type="bold">父</hi>なる<hi type="bold">神</hi>であられ、私たちの<hi type="bold">救い主</hi>であられる<hi type="bold">主</hi>イエス・キリストより、恵み、哀れみ、平安がありますように。<verse eID="Titus.1.4"/>
 		<verse sID="Titus.1.5" osisID="Titus.1.5"/>私があなたをクレテに残した理由は、私があなたに命じたように、不十分な所を順に補い、そしてすべての町で長老を選ぶためです。<verse eID="Titus.1.5"/>
 		<verse sID="Titus.1.6" osisID="Titus.1.6"/>長老となるべき者は、非難されるところがないか、一人の妻の一人しかいない夫かどうか、忠実な子供がいて、その子供は放蕩や不従順で訴えられたことはないか、という条件です。<verse eID="Titus.1.6"/>
-		<verse sID="Titus.1.7" osisID="Titus.1.7"/>なぜなら、監督は非難されるところがない人でなければなりません。すなわち、神の執事として非難されるところがなく、放縦でなく、気短でなく、葡萄液を好まず、暴力をふるわず、金銭欲のない人であるべきです。<verse eID="Titus.1.7"/>
+		<verse sID="Titus.1.7" osisID="Titus.1.7"/>なぜなら、監督は非難されるところがない人でなければなりません。すなわち、<hi type="bold">神</hi>の執事として非難されるところがなく、放縦でなく、気短でなく、葡萄液を好まず、暴力をふるわず、金銭欲のない人であるべきです。<verse eID="Titus.1.7"/>
 		<verse sID="Titus.1.8" osisID="Titus.1.8"/>反対に、よく人をもてなし、善なるものを愛し、冷静で思慮深く、公正で、敬虔で、自らを律し、<verse eID="Titus.1.8"/>
 		<verse sID="Titus.1.9" osisID="Titus.1.9"/>教えられた真実の御言葉を握っている人であるべきです。それは、健全な教理で勧め、反対者たちを糾弾することができるためです。<verse eID="Titus.1.9"/>
 		<verse sID="Titus.1.10" osisID="Titus.1.10"/>なぜなら、不従順な者、無駄話をする者、人を騙す者は多くいます。特に割礼者に多くいます。<verse eID="Titus.1.10"/>
@@ -7248,22 +7248,22 @@
 		<verse sID="Titus.1.13" osisID="Titus.1.13"/>この証は本当です。したがって、信仰で健全になるために、彼らを厳しく糾弾しなさい。<verse eID="Titus.1.13"/>
 		<verse sID="Titus.1.14" osisID="Titus.1.14"/>ユダヤ人のたわごとや、真理から向きを返る者たちの命令<note placement="foot"><reference type="annotateRef" osisRef="Titus.1.14">1.14</reference> 世間の常識。</note>に留意しないようにするためです。<verse eID="Titus.1.14"/>
 		<verse sID="Titus.1.15" osisID="Titus.1.15"/>きよい者にとって、すべてがきよいのですが、汚されて信じない者たちにとってきよいものは何もなく、心と良心さえもが汚されています。<verse eID="Titus.1.15"/>
-		<verse sID="Titus.1.16" osisID="Titus.1.16"/>神を知っていると言いながら、彼らは行ないで神を否定し、憎むべき者であり、不従順であり、すべてのよい業から見捨てられた者です。<verse eID="Titus.1.16"/>
+		<verse sID="Titus.1.16" osisID="Titus.1.16"/><hi type="bold">神</hi>を知っていると言いながら、彼らは行ないで<hi type="bold">神</hi>を否定し、憎むべき者であり、不従順であり、すべてのよい業から見捨てられた者です。<verse eID="Titus.1.16"/>
 		</chapter>
 		<chapter sID="Titus.2" osisID="Titus.2">
 		<verse sID="Titus.2.1" osisID="Titus.2.1"/>しかし、あなた自身は健全な教理のためにふさわしいことを、話しなさい。<verse eID="Titus.2.1"/>
 		<verse sID="Titus.2.2" osisID="Titus.2.2"/>すなわち、年老いた男たちは酒を飲まず、威厳があり、慎み深く、信仰、愛、忍耐に健全でありますように。<verse eID="Titus.2.2"/>
-		<verse sID="Titus.2.3" osisID="Titus.2.3"/>同様に、年老いた女たちも、行ないが神にかなう者であり、他人の中傷を言う者ではなく、多量の葡萄液を好まず、善なることを教える人であるように、<verse eID="Titus.2.3"/>
+		<verse sID="Titus.2.3" osisID="Titus.2.3"/>同様に、年老いた女たちも、行ないが<hi type="bold">神</hi>にかなう者であり、他人の中傷を言う者ではなく、多量の葡萄液を好まず、善なることを教える人であるように、<verse eID="Titus.2.3"/>
 		<verse sID="Titus.2.4" osisID="Titus.2.4"/>そして、若い女たちに自分の夫を愛すること、自分の子どもを愛することを、年老いた女たちは勧めるように、<verse eID="Titus.2.4"/>
-		<verse sID="Titus.2.5" osisID="Titus.2.5"/>また、思慮深く、貞淑であり、自分の家を守る人であり、善良で、自分自身の夫に従順であるように、勧めるようにしなさい。それは神の御言葉が冒涜されないためです。<verse eID="Titus.2.5"/>
+		<verse sID="Titus.2.5" osisID="Titus.2.5"/>また、思慮深く、貞淑であり、自分の家を守る人であり、善良で、自分自身の夫に従順であるように、勧めるようにしなさい。それは<hi type="bold">神</hi>の御言葉が冒涜されないためです。<verse eID="Titus.2.5"/>
 		<verse sID="Titus.2.6" osisID="Titus.2.6"/>同様に、若い男たちは正常な心であるように勧めなさい。<verse eID="Titus.2.6"/>
 		<verse sID="Titus.2.7" osisID="Titus.2.7"/>すべての点に、あなた自らがよい行ないの模範を示し、教理では、高潔であり、品格があり、清廉潔白を示しなさい。<verse eID="Titus.2.7"/>
 		<verse sID="Titus.2.8" osisID="Titus.2.8"/>糾弾の余地がない健全な言葉を言いなさい。あなたに関して悪く言うことが皆無で、反対者が恥じ入るためです。<verse eID="Titus.2.8"/>
 		<verse sID="Titus.2.9" osisID="Titus.2.9"/>僕たちは、口答えせず、すべてのことに、自分自身の主人たちを満足させるよう、逆らわないように勧めなさい。<verse eID="Titus.2.9"/>
-		<verse sID="Titus.2.10" osisID="Titus.2.10"/>くすねることなどせず、むしろすべてに、忠誠を示しなさい。私たちの救い主であられる神の教理を美しくするためです。<verse eID="Titus.2.10"/>
-		<verse sID="Titus.2.11" osisID="Titus.2.11"/>なぜなら、救いをもたらす神の御恵みはすべての人に表れており、<verse eID="Titus.2.11"/>
+		<verse sID="Titus.2.10" osisID="Titus.2.10"/>くすねることなどせず、むしろすべてに、忠誠を示しなさい。私たちの<hi type="bold">救い主</hi>であられる<hi type="bold">神</hi>の教理を美しくするためです。<verse eID="Titus.2.10"/>
+		<verse sID="Titus.2.11" osisID="Titus.2.11"/>なぜなら、救いをもたらす<hi type="bold">神</hi>の御恵みはすべての人に表れており、<verse eID="Titus.2.11"/>
 		<verse sID="Titus.2.12" osisID="Titus.2.12"/>不敬虔、そして世俗的な欲望を否定し、真摯に、正しく、敬虔深くこの時代を生きるべきであり、<verse eID="Titus.2.12"/>
-		<verse sID="Titus.2.13" osisID="Titus.2.13"/>祝福の希望、そして偉大なる神と私たちの救い主であられるイエス・キリストの現れ、また栄光の来臨を待ち望むように、私たちに教えています。<verse eID="Titus.2.13"/>
+		<verse sID="Titus.2.13" osisID="Titus.2.13"/>祝福の希望、そして偉大なる<hi type="bold">神</hi>と私たちの<hi type="bold">救い主</hi>であられるイエス・キリストの現れ、また栄光の来臨を待ち望むように、私たちに教えています。<verse eID="Titus.2.13"/>
 		<verse sID="Titus.2.14" osisID="Titus.2.14"/>すべての違法な行ないから私たちを贖うため、またよい行ないに熱心な、特別な国民を、ご自身のために清めるため、キリストはご自身を私たちのためにお与えになりました。<verse eID="Titus.2.14"/>
 		<verse sID="Titus.2.15" osisID="Titus.2.15"/>これらのことを話し、勧め、すべての権威をもって糾弾しなさい。誰からも疎んじられてはいけません。<verse eID="Titus.2.15"/>
 		</chapter>
@@ -7271,11 +7271,11 @@
 		<verse sID="Titus.3.1" osisID="Titus.3.1"/>支配者たちと権威者たちの支配下に入り、命令に従い、すべてのよい行ないのために備え、<verse eID="Titus.3.1"/>
 		<verse sID="Titus.3.2" osisID="Titus.3.2"/>人の中傷を言わず、平和的に、穏やかに、すべての人に対して謙虚であるように忘れないようにさせなさい。<verse eID="Titus.3.2"/>
 		<verse sID="Titus.3.3" osisID="Titus.3.3"/>なぜなら、私たちも以前は愚かで、不従順であり、欺かれ、様々な欲望と快楽に仕え、悪意とねたみの内に生活し、憎み、互いに憎まれていました。<verse eID="Titus.3.3"/>
-		<verse sID="Titus.3.4" osisID="Titus.3.4"/>しかし、私たちの救い主であられる神の親切と愛が現われた時、<verse eID="Titus.3.4"/>
-		<verse sID="Titus.3.5" osisID="Titus.3.5"/>私たち自らが行なった義の行為によってではなく、神ご自身の哀れみによって、救い主は私たちを救ってくださいました。新生の洗浄と聖霊の更新とを通してです。<verse eID="Titus.3.5"/>
-		<verse sID="Titus.3.6" osisID="Titus.3.6"/>私たちの救い主イエス・キリストを通して、聖霊は豊かに注がれました。<verse eID="Titus.3.6"/>
+		<verse sID="Titus.3.4" osisID="Titus.3.4"/>しかし、私たちの<hi type="bold">救い主</hi>であられる<hi type="bold">神</hi>の親切と愛が現われた時、<verse eID="Titus.3.4"/>
+		<verse sID="Titus.3.5" osisID="Titus.3.5"/>私たち自らが行なった義の行為によってではなく、<hi type="bold">神</hi>ご自身の哀れみによって、<hi type="bold">救い主</hi>は私たちを救ってくださいました。新生の洗浄と<hi type="bold">聖霊</hi>の更新とを通してです。<verse eID="Titus.3.5"/>
+		<verse sID="Titus.3.6" osisID="Titus.3.6"/>私たちの<hi type="bold">救い主</hi>イエス・キリストを通して、<hi type="bold">聖霊</hi>は豊かに注がれました。<verse eID="Titus.3.6"/>
 		<verse sID="Titus.3.7" osisID="Titus.3.7"/>それは、キリストの御恵みによって義と認められた私たちは、あの永遠の命の希望による相続人となるためです。<verse eID="Titus.3.7"/>
-		<verse sID="Titus.3.8" osisID="Titus.3.8"/>これは信頼すべき言葉です。ですから、神を信じた人々が思慮深く、よい行ないを続けることができるように、これらのことをあなたが絶えず断言することを、私は求めます。これらのことは人々にとってよいこと、また役に立つことです。<verse eID="Titus.3.8"/>
+		<verse sID="Titus.3.8" osisID="Titus.3.8"/>これは信頼すべき言葉です。ですから、<hi type="bold">神</hi>を信じた人々が思慮深く、よい行ないを続けることができるように、これらのことをあなたが絶えず断言することを、私は求めます。これらのことは人々にとってよいこと、また役に立つことです。<verse eID="Titus.3.8"/>
 		<verse sID="Titus.3.9" osisID="Titus.3.9"/>しかし、愚かな議論、系図、論争、律法に関する争いは役に立たず、むだであるから、避けなさい。<verse eID="Titus.3.9"/>
 		<verse sID="Titus.3.10" osisID="Titus.3.10"/>一度か二度の忠告の後、分裂を起こす者<note placement="foot"><reference type="annotateRef" osisRef="Titus.3.10">3.10</reference> 異端者。</note>を拒否しなさい。<verse eID="Titus.3.10"/>
 		<verse sID="Titus.3.11" osisID="Titus.3.11"/>あなたの知っているとおり、そういう者は歪んでいて、自らを有罪としていながら、罪を犯しています。<verse eID="Titus.3.11"/>
