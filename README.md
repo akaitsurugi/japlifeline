@@ -3,7 +3,7 @@
 This SWORD module is for Bible study software like MacSword (Eloquent) and Xiphos and is available for free. The Lifeline Japanese New Testament was published by [Gospel to Japan](http://www.gospeltojapan.org/) and the descriptions below are from them. This module is managed by [Akai Tsurugi](http://akaitsurugi.org/).
 
 Todos:
-- [ ] Bold the name of God as in the PDF. For example: `<hi type="bold">神</hi>` (started in `bold-tags` branch)
+- [x] Bold the name of God as in the PDF. For example: `<hi type="bold">神</hi>` (started in `bold-tags` branch, finished in `1.2`)
 - [ ] Add [rubi markup](https://en.wikipedia.org/wiki/Ruby_character) for furigana
 
 This translation has been based on the same Greek texts used in the New Testament of the King James Bible, and for those who have been frustrated with the deletions, omissions, and weaker translation of the current Japanese translations, this will be a blessing to have. Many years of labor have gone into its research, and it is being provided at only the cost of shipping.

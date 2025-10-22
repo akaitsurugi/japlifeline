@@ -3,8 +3,21 @@
 <osisText osisIDWork="JapLifeline" osisRefWork="Bible" xml:lang="ja">
 	<header>
 		<revisionDesc resp="Akai Tsurugi">
+			<date>2025.10.21</date>
+			<p>Lifeline module version 1.2</p>
+			<p>Details:
+				<list>
+					<item>Added bold tags.</item>
+					<item>Added missing text.</item>
+					<item>Removed extraneous text.</item>
+					<item>Corrected various readings.</item>
+					<item>Corrected the footnote for Luke 6.13.</item>
+				</list>
+			</p>
+		</revisionDesc>
+		<revisionDesc resp="Akai Tsurugi">
 			<date>2024.05.23</date>
-			<p>Lifeline module version 1.0.1</p>
+			<p>Lifeline module version 1.1</p>
 			<p>Details:
 				<list>
 					<item>Added titles to books.</item>
