@@ -1,6 +1,6 @@
 # Lifeline Japanese New Testament （ライフライン訳新約聖書）
 
-This can be used with SWORD project [Bible study software](http://crosswire.org/applications/) such as [Eloquent](http://eloquent-bible-study.eu/Eloquent_Bible_Study/Eloquent_Bible_Study.html) (MacSword) and [Xiphos](https://xiphos.org/) by downloading from the CrossWire module repository, or by manually installing the [SWORD module] from the [Releases](https://github.com/akaitsurugi/japlifeline/releases).
+This can be used with SWORD project [Bible study software](http://crosswire.org/applications/) such as [Eloquent](http://eloquent-bible-study.eu/Eloquent_Bible_Study/Eloquent_Bible_Study.html) (MacSword) and [Xiphos](https://xiphos.org/) by downloading from the CrossWire module repository, or by manually installing the SWORD module from the [Releases](https://github.com/akaitsurugi/japlifeline/releases).
 
 This module is managed by [Akai Tsurugi](http://akaitsurugi.org/).
 
